@@ -1,0 +1,5 @@
+checkpoints/
+Data/
+duel_adapters/__pycache__
+Logs
+wandb
